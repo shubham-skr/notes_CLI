@@ -1,0 +1,1 @@
+[{"title":"git add .","body":"add all new and changed files to the staging area"},{"title":"git commit -m [commit message]","body":"commit changes"}]
