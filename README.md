@@ -2,13 +2,13 @@
 ##### node.js project
 <br/>
 
-notes_CLI is a command line application for managing notes :
+notes_CLI is a Command Line Interface (CLI) application for managing notes :
 1. Adding a note
 2. Reading a note
 3. Listing all notes
 4. Removing a note
 
-The required command to perform these operations are provided through command line arguments. It uses yargs npm module to parse command line arguments and chalk npm module to display styled texts.
+The required commands to perform these operations are provided through command line arguments. It uses yargs npm module to create CL commands and parse CL arguments. It also uses chalk npm module to display styled texts.
 
 <br/>
 
